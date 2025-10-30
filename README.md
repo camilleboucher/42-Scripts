@@ -30,5 +30,5 @@ For the moment, only contains a Bash script that automates the update of Flatpak
 4. Run the script: 
 
    ```bash
-   ./install.sh
+   bash ./install.sh
 5. Logout, Login and Enjoy !
